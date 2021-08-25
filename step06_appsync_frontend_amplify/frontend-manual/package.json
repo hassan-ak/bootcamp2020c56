@@ -1,0 +1,18 @@
+{
+  "name": "gatsbyempty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "aws-amplify": "^4.2.4",
+    "gatsby": "^3.12.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
