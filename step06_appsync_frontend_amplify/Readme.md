@@ -39,6 +39,10 @@ amplify init
 amplify add codegen --apiId ENTER_YOUR_API_ID
 ```
 
+```
+amplify codegen
+```
+
 you can get this id from your AWS Appsync console.
 
 These steps will create a graphql folder and a aws-exports.js file in the src directory of your gatsby project. The graphql folder has all the queries, mutations and subscriptions defined in your schema.
