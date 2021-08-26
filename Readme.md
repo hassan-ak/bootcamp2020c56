@@ -10,6 +10,13 @@ Amplify is a tool thats allows us to develope and integrate backend with fronten
 - [Appsync Frontend Amplify](./step06_appsync_frontend_amplify)
 - [Appsync with Subscriptions using Amplify](./step07_appsync_with_subscriptions_using_amplify)
 
+## Reading Material
+
+- [Authentication types](https://docs.aws.amazon.com/appsync/latest/devguide/security.html#aws-appsync-security).
+- [Getting started with Amplify](https://docs.amplify.aws/lib/graphqlapi/getting-started/q/platform/ios)
+- [Learn more about Amplify](https://docs.amplify.aws/)
+- [learn more about Appsync CDK](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-appsync-readme.html)
+
 ## Video Lectures
 
 - [Youtube English](https://www.youtube.com/watch?v=6hBaplgwE8s)
