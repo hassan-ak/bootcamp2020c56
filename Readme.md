@@ -2,8 +2,8 @@
 
 ## Class Notes
 
-CloudFormation was the base solution for IAC. AWS developed different tools such as amplify whcih is for developers with less grip on AWS, SAM is for serverless people with advantage of local deployment of lambda functions and proton whihc is for lambda functions and containers. This class is focused on amplify. We are going to use AppSync on client side using amplify.
-Amplify is a tool thats allows us to develope and integrate backend with frontend. Our focus is on developing backend with CDK and use it in frontend using amplify.
+CloudFormation was the base solution for IAC. AWS developed different tools such as amplify whcih is for developers with less grip on AWS, SAM is for serverless people with advantage of local deployment of lambda functions and proton whihc is for lambda functions and containers. This class is focused on amplify. We are going to use AppSync on client side using amplify. Amplify is a tool thats allows us to develope and integrate backend with frontend. Our focus is on developing backend with CDK and use it in frontend using amplify.
+In case we want our changes to the server side to be reflected on the client side along with queries and mutations we can use subscriptions. Working with AppSync is easy for scalebale subscription.
 
 ## Sections
 
