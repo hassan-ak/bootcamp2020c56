@@ -1,4 +1,4 @@
-# Gatsby Empty Project
+# Amplify Frontend (Subscriptions)
 
 ## Steps to code
 
