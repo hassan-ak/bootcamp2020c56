@@ -2,12 +2,12 @@
 
 ## Steps to code
 
-1. Create a new directory by using `mkdir gatsbyempty`
-2. Naviagte to the newly created directory using `cd gatsbyempty`
+1. Create a new directory by using `mkdir amplify-frontend-manual`
+2. Naviagte to the newly created directory using `cd amplify-frontend-manual`
 3. use `npm init` to initilize an yarn project in the directory which creates a package.json file with the following content
    ```
    {
-   "name": "gatsbyempty",
+   "name": "amplify-frontend-manual",
    "version": "1.0.0",
    "main": "index.js",
    "license": "MIT"
