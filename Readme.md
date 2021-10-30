@@ -1,4 +1,4 @@
-# bootcamp2020c55 - AWS AppSync
+# bootcamp2020c56 - AWS AppSync
 
 ## AWS Amplify And AWS Appsync
 
