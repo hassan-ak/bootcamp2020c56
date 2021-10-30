@@ -1,4 +1,4 @@
-# Amplify Frontend (Subscriptions)
+# Step 07b - Amplify Frontend (Subscriptions)
 
 ## Steps to code
 
